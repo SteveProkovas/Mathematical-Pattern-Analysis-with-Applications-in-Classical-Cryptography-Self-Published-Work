@@ -1,7 +1,5 @@
 # Mathematical Pattern Analysis with Applications in Classical Cryptography (Self-Published Work)
 
-## **Introduction**
-
 Welcome to the **Mathematical Pattern Analysis with Applications in Classical Cryptography** project. This self-published work represents ongoing research in the field of mathematical pattern recognition and its potential applications in classical cryptography. While the specific patterns under investigation are not disclosed at this time, this project aims to explore how these patterns can be leveraged to enhance or disrupt traditional cryptographic methods.
 
 ## **Current Focus**
